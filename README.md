@@ -8,7 +8,8 @@ Case reproduction As shown, this is a test site
 
 View the front-end code of the website and find multiple JSs
 
-![image](https://github.com/dubin12345/Canteen/assets/144758348/6b4d9311-3496-47db-9142-32a993678e06)
+![image](https://github.com/dubin12345/Canteen/assets/144758348/ab462f66-a804-4f7e-b032-c9d425c50754)
+
 
 Splice the front-end JS fields and wait for multiple front-end static page URLs
 
