@@ -3,7 +3,8 @@ Recurrence of vulnerabilities
 There is a problem with Alibaba Cloud OSS AccessKey leakage in the Xiaoniuyun Canteen Smart Canteen Management System. Attackers can obtain sensitive information and control cloud servers by obtaining the AccessKey
 Case reproduction As shown, this is a test site
 
-![image](https://github.com/dubin12345/Canteen/assets/144758348/64401614-b350-4d86-a445-6cc900d0e67f)
+![image](https://github.com/dubin12345/Canteen/assets/144758348/bd2b97b1-6dec-4cfd-979a-df1d0a18c19f)
+
 
 View the front-end code of the website and find multiple JSs
 ![image](https://github.com/dubin12345/Canteen/assets/144758348/6b4d9311-3496-47db-9142-32a993678e06)
