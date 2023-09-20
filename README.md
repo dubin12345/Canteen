@@ -37,8 +37,9 @@ requests:
       ![image](https://github.com/dubin12345/Canteen/assets/144758348/f105de82-4b4d-4caf-9048-fef893a44627)
     Accessing the vulnerable URL and finding the accessKeyId and accessKeySecret
     ![image](https://github.com/dubin12345/Canteen/assets/144758348/7493b58c-7982-4ab2-a3d8-60f908a9212d)
-    
+    Use Alibaba Cloud Key Leakage Utilization Tool to Obtain Permissions
     ![image](https://github.com/dubin12345/Canteen/assets/144758348/84137d38-253b-44be-8080-75882a318894)
+    
 
 
 
